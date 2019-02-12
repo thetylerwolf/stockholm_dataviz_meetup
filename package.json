@@ -1,0 +1,19 @@
+{
+  "name": "dataviz_meetup",
+  "version": "1.0.0",
+  "description": "project used for Stockholm Dataviz meetup talk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thetylerwolf/stockholm_dataviz_meetup.git"
+  },
+  "author": "Tyler Wolf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thetylerwolf/stockholm_dataviz_meetup/issues"
+  },
+  "homepage": "https://github.com/thetylerwolf/stockholm_dataviz_meetup#readme"
+}
