@@ -1,3 +1,21 @@
-A More Efficient Data Viz Design Process
+# A More Efficient Data Viz Design Process
 
-Project used for Stockholm Dataviz meetup talk
+### Project used for Stockholm Dataviz meetup talk
+
+## How to run this project
+
+l. Install Node/npm
+l. `cd path/to/this/project`
+l. `npm install`
+
+To run the D3 project
+
+`npm run d3`
+
+To run the eCharts project
+
+`npm run echarts`
+
+Both projects are set to auto-refresh in the browser as you make code changes.
+
+## Keep on Creating!

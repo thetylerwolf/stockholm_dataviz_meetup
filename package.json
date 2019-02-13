@@ -4,7 +4,9 @@
   "description": "project used for Stockholm Dataviz meetup talk",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "d3": "budo d3_example.js:bundle.js  --live --verbose --port 3000 --open -- -t [ babelify ]",
+    "echarts": "budo echarts_example.js:bundle.js  --live --verbose --port 3000 --open -- -t [ babelify ]"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,16 @@
   "bugs": {
     "url": "https://github.com/thetylerwolf/stockholm_dataviz_meetup/issues"
   },
-  "homepage": "https://github.com/thetylerwolf/stockholm_dataviz_meetup#readme"
+  "homepage": "https://github.com/thetylerwolf/stockholm_dataviz_meetup#readme",
+  "dependencies": {
+    "d3": "^5.9.1",
+    "echarts": "^4.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "babelify": "^10.0.0",
+    "browserify": "^16.2.3",
+    "budo": "^11.6.0"
+  }
 }
