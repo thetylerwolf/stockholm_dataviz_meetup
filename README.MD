@@ -4,9 +4,9 @@
 
 ## How to run this project
 
-l. Install Node/npm
-l. `cd path/to/this/project`
-l. `npm install`
+1. Install Node/npm
+1. `cd path/to/this/project`
+1. `npm install`
 
 To run the D3 project
 
