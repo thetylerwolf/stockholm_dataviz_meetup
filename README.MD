@@ -16,6 +16,8 @@ To run the eCharts project
 
 `npm run echarts`
 
+Navigate your browser to `localhost:3000` and modify the respective .js files
+
 Both projects are set to auto-refresh in the browser as you make code changes.
 
 ## Keep on Creating!
