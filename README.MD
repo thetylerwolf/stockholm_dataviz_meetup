@@ -1,8 +1,20 @@
 # A More Efficient Data Viz Design Process
 
-### Project used for Stockholm Dataviz meetup talk
+## Presentation and Links
 
-## How to run this project
+Presentation notes available in "Dataviz Stockhom Talk.pdf"
+
+Links
+
+* [Raw Graphs](http://app.rawgraphs.io/)
+* [Observable](https://beta.observablehq.com/)
+* [ECharts](https://echarts.apache.org/) - check out examples
+* [D3 enter, update, exit (v4)](https://bl.ocks.org/mbostock/3808234)
+* [Odin Chart Plugin for XD](https://odinchart.com/)
+
+## Project used for Stockholm Dataviz meetup talk
+
+### How to run this project
 
 1. Install Node/npm
 1. `cd path/to/this/project`
