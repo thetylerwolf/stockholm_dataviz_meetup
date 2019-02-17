@@ -11,6 +11,7 @@ Links
 * [ECharts](https://echarts.apache.org/) - check out examples
 * [D3 enter, update, exit (v4)](https://bl.ocks.org/mbostock/3808234)
 * [Odin Chart Plugin for XD](https://odinchart.com/)
+* [My website](http://tylernwolf.com)
 
 ## Project used for Stockholm Dataviz meetup talk
 
